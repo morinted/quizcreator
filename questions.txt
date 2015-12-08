@@ -1,0 +1,19 @@
+title: Silly quiz
+professor: Ted Morin
+date: December 10, 2015
+questions:
+  - question: What is beer?
+    answer: A drink
+    options:
+      - A dog
+      - Mom's crux
+    picture: http://weknowyourdreams.com/images/beer/beer-08.jpg
+
+  - fill: Beer is a =delicious= drink
+
+  - matching: On the subject of HVAC
+    solutions:
+      - Babes are =cool=
+      - Blood runs =hot=
+      - =Ventilation= requires air
+      - Dad's head is filled with =air=
